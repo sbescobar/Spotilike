@@ -30,6 +30,7 @@ As a power user and multitasker, I found it disruptive to Alt-Tab out of a focus
 📦 # Installation & Setup
 
   1. Clone the Repo:
+
     git clone https://github.com/sbescobar/Spotilike.git
 
   2.  Spotify Credentials: Create an app on the Spotify Developer Dashboard and get your CLIENT_ID and CLIENT_SECRET.
