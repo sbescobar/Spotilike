@@ -92,3 +92,16 @@ To make your G-key trigger the script invisibly:
   In AutoHotkey: Run the Spotilike.ahk script.
 
   Test it: Play a song on Spotify and hit G3. If the song appears in your "Liked Songs" without a window popping up, you’re all set!
+
+---
+  🛡️ Pro-Tip: Make it "Always On"
+
+To ensure your G3 key works every time you turn on your PC:
+
+  Press Win + R, type shell:startup, and hit Enter.
+
+  Right-click your Spotilike.ahk file and select Create Shortcut.
+
+  Move that Shortcut into the Startup folder you just opened.
+
+  Now, the bridge will load automatically when Windows starts!
